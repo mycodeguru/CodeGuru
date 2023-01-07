@@ -1,12 +1,5 @@
-# Forge Hello World
+# Creates Jira App & fetches user stories 
 
-This project contains a Forge app written in Javascript that displays `Hello World!` in a Jira project page. 
-
-See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
-
-## Requirements
-
-See [Set up Forge](https://developer.atlassian.com/platform/forge/set-up-forge/) for instructions to get set up.
 
 ## Quick start
 - Install dependecies
